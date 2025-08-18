@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200 200">
+  <!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  -->
+  <defs>
+    <style>
+      .st0 {
+        stroke: #bababa;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 28px;
+      }
+
+      .st0, .st1, .st2 {
+        fill: none;
+      }
+
+      .st1 {
+        stroke: #7cb8ff;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+
+      .st3 {
+        fill: #00bf24;
+      }
+
+      .st2 {
+        stroke: #00bf24;
+        stroke-linejoin: bevel;
+        stroke-width: 12px;
+      }
+    </style>
+    <symbol id="glyph0-1" viewBox="0 0 7.2 19.5">
+      <path d="M0,13.9v1.9c1.8.2,3,.5,3.7.9.7.4,1.2,1.4,1.6,2.9h1.9V0h-2.6v13.9H0Z"/>
+    </symbol>
+    <symbol id="glyph0-2" viewBox="0 0 13.5 19.6">
+      <path d="M1,4.4c.6,1.2,1.8,2.4,3.5,3.4l2.6,1.5c1.2.7,2,1.3,2.5,1.8.7.8,1.1,1.6,1.1,2.6s-.3,2-1,2.7c-.7.7-1.6,1-2.7,1-1.7,0-2.9-.6-3.5-1.9-.3-.7-.5-1.6-.6-2.8H.5c0,1.7.3,3.1.9,4.2,1.1,1.9,2.9,2.8,5.6,2.8s3.9-.6,4.9-1.8,1.6-2.6,1.6-4-.6-2.9-1.7-4c-.6-.6-1.8-1.4-3.4-2.4l-1.9-1c-.9-.5-1.6-1-2.1-1.4-.9-.8-1.5-1.7-1.7-2.6h10.7V0H0c0,1.7.4,3.2,1,4.4Z"/>
+    </symbol>
+    <symbol id="glyph0-3" viewBox="0 0 13.7 20.1">
+      <path d="M1.6,1.9C.5,3.2,0,4.7,0,6.5h2.6c.1-1.3.3-2.2.7-2.8.6-1,1.8-1.5,3.5-1.5s2.3.3,3.1,1c.8.7,1.2,1.6,1.2,2.7s-.4,2.3-1.2,2.8c-.8.5-2,.8-3.4.8s-.3,0-.5,0c-.2,0-.3,0-.5,0v2.2c.3,0,.5,0,.6,0,.2,0,.4,0,.6,0,.9,0,1.7.1,2.3.4,1,.5,1.6,1.4,1.6,2.7s-.3,1.7-1,2.3c-.7.5-1.5.8-2.4.8-1.6,0-2.8-.5-3.4-1.6-.3-.6-.5-1.5-.6-2.6H.5c0,1.5.3,2.7.9,3.7,1,1.8,2.8,2.7,5.3,2.7s3.5-.4,4.6-1.3c1.1-.9,1.6-2.2,1.6-3.9s-.3-2.2-1-2.9c-.4-.5-.9-.8-1.6-1.1,1-.3,1.8-.8,2.4-1.6.6-.8.9-1.8.9-3,0-1.9-.6-3.4-1.8-4.6-1.2-1.2-3-1.8-5.2-1.8S2.6.6,1.6,1.9Z"/>
+    </symbol>
+    <symbol id="glyph0-4" viewBox="0 0 13.9 19.6">
+      <path d="M8.5,6.9v8.9L2.3,6.9h6.3ZM8.6,0v4.8H0v2.4l9,12.4h2.1V6.9h2.9v-2.1h-2.9V0h-2.5Z"/>
+    </symbol>
+  </defs>
+  <g id="surface11">
+    <path class="st0" d="M40,40l120,120M40,160l120-120"/>
+    <path class="st1" d="M188,160c0,15.5-12.5,28-28,28s-28-12.5-28-28,12.5-28,28-28,28,12.5,28,28M179.8,179.8l-2-16.8M179.8,179.8h16.8"/>
+    <use width="7.2" height="19.5" transform="translate(155.7 167) scale(1 -1)" xlink:href="#glyph0-1"/>
+    <path class="st1" d="M188,40c0,15.5-12.5,28-28,28s-28-12.5-28-28,12.5-28,28-28,28,12.5,28,28M179.8,20.2l-2,16.8M179.8,20.2h16.8"/>
+    <use width="13.5" height="19.6" transform="translate(153.9 47) scale(1 -1)" xlink:href="#glyph0-2"/>
+    <path class="st1" d="M68,160c0,15.5-12.5,28-28,28s-28-12.5-28-28,12.5-28,28-28,28,12.5,28,28M20.2,179.8l2-16.8M20.2,179.8H3.4"/>
+    <use width="13.7" height="20.1" transform="translate(33.7 167.5) scale(1 -1)" xlink:href="#glyph0-3"/>
+    <path class="st1" d="M68,40c0,15.5-12.5,28-28,28s-28-12.5-28-28,12.5-28,28-28,28,12.5,28,28M20.2,20.2l2,16.8M20.2,20.2H3.4"/>
+    <use width="13.9" height="19.6" transform="translate(33.7 47) scale(1 -1)" xlink:href="#glyph0-4"/>
+    <path class="st2" d="M100,82v38"/>
+    <path class="st3" d="M100,75l-15,15h30l-15-15"/>
+  </g>
+</svg>
