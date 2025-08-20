@@ -28,6 +28,7 @@ Os downloads para Windows, Linux, Mac and Android estão disponíveis na seção
 > Reinicie o terminal e execute `nvm install 20`  
 > Execute `nvm use 20`  
 > Instale o Yarn com `npm install -g yarn`  
+> Instale o Gulp com `yarn add gulp --dev`  
 
 As tarefas de compilação são definidas no arquivo `gulpfile.js` e podem ser executadas com:
 ```
