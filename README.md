@@ -23,6 +23,11 @@ Os downloads para Windows, Linux, Mac and Android estão disponíveis na seção
 > | ANDROID_SDK_ROOT | %LOCALAPPDATA%\Android\sdk |
 > | Path | %ANDROID_HOME%\tools<br>%ANDROID_HOME%\platform-tools<br>C:\Gradle\bin |
 
+> Instalação do yarn:
+> Instale o NVM para controle de versão [aqui.](https://github.com/coreybutler/nvm-windows/releases/tag/1.2.2)
+> Reinicie o terminal e execute `nvm install 20`
+> Execute `nvm use 20`
+> Instale o Yarn com `npm install -g yarn`
 
 As tarefas de compilação são definidas no arquivo `gulpfile.js` e podem ser executadas com:
 ```
