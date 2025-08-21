@@ -28,7 +28,7 @@ const CONFIGURATOR = {
     version: '0.0.1',
     gitRevision: 'norevision',
     latestVersion: '0.0.1',
-    latestVersionReleaseUrl: 'https://github.com/deltaflight/deltaflight-configurator/releases',
+    latestVersionReleaseUrl: 'https://github.com/deltaflight/deltaflight/releases',
 
     getDisplayVersion: function () {
         if (this.version.indexOf(this.gitRevision) === -1) {

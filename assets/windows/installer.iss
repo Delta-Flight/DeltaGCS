@@ -12,15 +12,15 @@
 #define ApplicationName "DeltaFlight"
 #define CompanyName "The Deltaflight open source project"
 #define CompanyUrl ""
-#define ExecutableFileName "deltaflight-configurator.exe"
+#define ExecutableFileName "deltaflight.exe"
 #define GroupName "Deltaflight"
-#define InstallerFileName "deltaflight-configurator_" + version + "_" + archName + "-installer"
+#define InstallerFileName "deltaflight_" + version + "_" + archName + "-installer"
 #define SourcePath "..\..\" + sourceFolder + "\DeltaFlight\" + archName
 #define TargetFolderName "DeltaFlight"
-#define UpdatesUrl "https://github.com/deltaflight/deltaflight-configurator/releases"
+#define UpdatesUrl "https://github.com/deltaflight/deltaflight/releases"
 
 [CustomMessages]
-AppName=deltaflight-configurator
+AppName=deltaflight
 LaunchProgram=Start {#ApplicationName}
 
 [Files]

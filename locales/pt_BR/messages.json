@@ -6927,7 +6927,7 @@
         "message": "Nome do arquivo"
     },
     "dialogFileNameDescription": {
-        "message": "O arquivo será salvo na pasta 'Android\/data\/DeltaFlight-configurator\/{{folder}}' no seu armazenamento interno."
+        "message": "O arquivo será salvo na pasta 'Android\/data\/deltaflight\/{{folder}}' no seu armazenamento interno."
     },
     "dialogFileAlreadyExistsTitle": {
         "message": "Este arquivo já existe!"

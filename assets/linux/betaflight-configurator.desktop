@@ -1,8 +1,8 @@
 [Desktop Entry]
 Name=DeltaFlight
 Comment=Crossplatform configuration tool for the DeltaFlight flight control system
-Exec=/opt/deltaflight/deltaflight-configurator/deltaflight-configurator
-Icon=/opt/deltaflight/deltaflight-configurator/icon/bf_icon_128.png
+Exec=/opt/deltaflight/deltaflight/deltaflight
+Icon=/opt/deltaflight/deltaflight/icon/bf_icon_128.png
 Terminal=false
 Type=Application
 Categories=Utility

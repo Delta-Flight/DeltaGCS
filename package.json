@@ -33,7 +33,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "github.com/deltaflight/deltaflight-configurator"
+    "url": "github.com/deltaflight/deltaflight"
   },
   "author": "The DeltaFlight open source project.",
   "license": "GPL-3.0",
