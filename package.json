@@ -1,8 +1,8 @@
 {
-  "name": "deltaflight-configurator",
-  "productName": "DeltaFlight Configurator",
-  "description": "Crossplatform configuration tool for DeltaFlight flight control system.",
-  "version": "10.10.0",
+  "name": "deltaflight",
+  "productName": "DeltaFlight",
+  "description": "Crossplatform configuration tool for Deltaflight flight control system.",
+  "version": "0.1.0",
   "main": "main.html",
   "chromium-args": "--disable-features=nw2",
   "scripts": {
@@ -28,14 +28,14 @@
     "id": "main-window",
     "min_width": 1024,
     "min_height": 550,
-    "title": "DeltaFlight Configurator",
+    "title": "DeltaFlight",
     "frame": true
   },
   "repository": {
     "type": "git",
-    "url": "github.com/betaflight/betaflight-configurator"
+    "url": "github.com/deltaflight/deltaflight-configurator"
   },
-  "author": "The Betaflight open source project.",
+  "author": "The DeltaFlight open source project.",
   "license": "GPL-3.0",
   "engines": {
     "node": "20.x"
